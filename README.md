@@ -1,0 +1,1 @@
+In this tutorial I will be working on getting the basics of building a website, this is going to be fun I HOPE!!
